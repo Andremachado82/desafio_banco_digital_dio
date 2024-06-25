@@ -14,7 +14,10 @@ public class Main {
         Conta cc = new ContaCorrente(venilton);
         Conta poupanca = new ContaPoupanca(venilton);
 
-        System.out.println(venilton);
+        cc.depositar(100);
+        cc.transferir(100, poupanca);
 
+        cc.imprimirExtrato();
+        poupanca.imprimirExtrato();
     }
 }
