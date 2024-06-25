@@ -13,3 +13,5 @@ q
 Asrc/main/java/org/desafiobancodigitaldio/model/ContaCorrente.java,d/d/dddc3b1dfccb790108e5eed5d54e14ce53fae3b4
 q
 Asrc/main/java/org/desafiobancodigitaldio/model/ContaPoupanca.java,8/d/8dd9a79bb3b84363026f755fde70a922d59af98d
+o
+?src/main/java/org/desafiobancodigitaldio/interfaces/IConta.java,2/d/2df4c807bcf3f9c6d265a5f69b80118ff3f1df73
