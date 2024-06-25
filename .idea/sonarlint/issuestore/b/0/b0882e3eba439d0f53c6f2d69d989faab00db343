@@ -1,4 +1,9 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(œÖ“ÿÿÿÿÿ8ÂıÅˆ…2J$9f43daf2-a1eb-4116-b4db-eb13f3454f99
-e
-java:S1128"CRemove this unused import 'org.desafiobancodigitaldio.model.Conta'.( í€øÿÿÿÿ8‘¦Æˆ…2
+„
+java:S1854"<Remove this useless assignment to local variable "poupanca".(øÌ—²ûÿÿÿÿ8¶ñáˆ…2J$dc8be346-e3a1-4a5b-b350-568cbe905b80
+~
+java:S1854"6Remove this useless assignment to local variable "cc".(¸²›ııÿÿÿÿ8·ñáˆ…2J$8ba1b1a9-0ad5-4a72-811a-f96f84734705
+o
+java:S1481"'Remove this unused "cc" local variable.(¸²›ııÿÿÿÿ8¹ñáˆ…2J$bbd7ca9f-8fc8-43d8-aa48-0a44d5a18da5
+u
+java:S1481"-Remove this unused "poupanca" local variable.(øÌ—²ûÿÿÿÿ8ºñáˆ…2J$3621f21b-23a9-49a3-b820-0511367100ae

@@ -8,4 +8,11 @@ public class Conta {
     protected int agencia;
     protected int numero;
     protected double saldo;
+    protected Cliente cliente;
+
+    public Conta(Cliente cliente) {
+        this.agencia = Conta.AGENCIA_PADRAO;
+        this.numero = SEQUENCIAL++;
+        this.cliente = cliente;
+    }
 }
